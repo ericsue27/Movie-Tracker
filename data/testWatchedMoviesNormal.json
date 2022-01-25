@@ -1,0 +1,16 @@
+{
+  "Watched Movies": [
+    {
+      "Name": "The Tree of Life",
+      "Release Date": 2011,
+      "Rating": "10/10",
+      "Review": "Great movie!"
+    },
+    {
+      "Name": "La Haine",
+      "Release Date": 1995,
+      "Rating": "9/10",
+      "Review": "Powerful"
+    }
+  ]
+}
